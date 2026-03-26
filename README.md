@@ -9,10 +9,10 @@
 </p>
 
 <p>
-  <a href="https://github.com/AlexRibeiroMaia">
+  <a href="[https://github.com/AlexRibeiroMaia](https://github.com/AlexRibeiroMaia)">
     <img src="https://img.shields.io/badge/GitHub-AlexRibeiroMaia-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/alex-maia-a16681291/">
+  <a href="[https://www.linkedin.com/in/alex-maia-a16681291/](https://www.linkedin.com/in/alex-m-a16681291/)">
     <img src="https://img.shields.io/badge/LinkedIn-Alex%20Maia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:alex.ribeiro.maiaa@gmail.com">
